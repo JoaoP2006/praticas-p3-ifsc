@@ -6,9 +6,9 @@ public class Main {
         Agenda agenda = new Agenda();
 
         
-        agenda.addContatinho(new Contatinho("Nick Ferreira", "neymar@gmail.com", "83988888", "Professor"));
-        agenda.addContatinho(new Contatinho("Maria Silva", "mariaa@gmail.com", "83999999", "Amiga"));
-        agenda.addContatinho(new Contatinho("João Souza", "joaos@gmail.com", "83977777", "Colega"));
+        agenda.addContatinho(new Contatinho("Neymar Ferreira", "neymar@gmail.com", "83988888", "Professor"));
+        agenda.addContatinho(new Contatinho("Marta da Silva", "martinha@gmail.com", "83999999", "Amiga"));
+        agenda.addContatinho(new Contatinho("João melao Souza", "joaos@gmail.com", "83977777", "Colega"));
 
         
         agenda.salvarLista("agenda.txt");
